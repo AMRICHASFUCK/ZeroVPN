@@ -3,7 +3,7 @@ ZeroVPN is a VPN client based on WireGuard, written in C #. It allows you to con
 How to use ZeroVPN
 To use ZeroVPN, you need to download and install it on your computer. You can find the latest version of ZeroVPN in the [Releases] section of this repository. After installation, run ZeroVPN and select the VPN server you want to connect to. You can choose a server from the suggested list or add your own. Click the “Connect” button and wait for ZeroVPN to establish a secure connection. Now you can enjoy free and safe internet!
 
-!image
+![image](https://github.com/Makhronov/ZeroVPN/assets/92443330/e69ad27a-0c70-4da3-95dd-7699fb8b3b85)
 
 How to support ZeroVPN
 If you liked ZeroVPN and want to support its development, you can make a donation in cryptocurrency. Your support will help us improve ZeroVPN and add new servers. You can send your donations to the following addresses:
