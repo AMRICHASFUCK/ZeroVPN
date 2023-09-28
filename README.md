@@ -1,7 +1,7 @@
 ZeroVPN is a VPN client based on WireGuard, written in C #. It allows you to connect to various VPN servers around the world and provides high speed, security and privacy of your internet traffic. ZeroVPN is easy to install and configure, and has a simple and convenient interface.
 
 How to use ZeroVPN
-To use ZeroVPN, you need to download and install it on your computer. You can find the latest version of ZeroVPN in the [Releases] section of this repository. After installation, run ZeroVPN and select the VPN server you want to connect to. You can choose a server from the suggested list or add your own. Click the “Connect” button and wait for ZeroVPN to establish a secure connection. Now you can enjoy free and safe internet!
+To use ZeroVPN, you need to download and install it on your computer. You can find the latest version of ZeroVPN in the [Releases] section of this repository. After installation, run ZeroVPN and select the VPN server you want to connect to. You can choose a server from the suggested list. Click the “Connect” button and wait for ZeroVPN to establish a secure connection. Now you can enjoy free and safe internet!
 
 ![image](https://github.com/Makhronov/ZeroVPN/assets/92443330/e69ad27a-0c70-4da3-95dd-7699fb8b3b85)
 
@@ -18,7 +18,7 @@ ZeroVPN - это VPN-клиент на основе WireGuard, написанн�
 
 ## Как использовать ZeroVPN
 
-Для использования ZeroVPN вам нужно скачать и установить его на свой компьютер. Вы можете найти последнюю версию ZeroVPN в разделе [Releases] этого репозитория. После установки запустите ZeroVPN и выберите VPN-сервер, к которому хотите подключиться. Вы можете выбрать сервер из предложенного списка или добавить свой собственный. Нажмите кнопку "Подключиться" и дождитесь, пока ZeroVPN установит защищенное соединение. Теперь вы можете наслаждаться свободным и безопасным интернетом!
+Для использования ZeroVPN вам нужно скачать и установить его на свой компьютер. Вы можете найти последнюю версию ZeroVPN в разделе [Releases] этого репозитория. После установки запустите ZeroVPN и выберите VPN-сервер, к которому хотите подключиться. Вы можете выбрать сервер из предложенного списка. Нажмите кнопку "Подключиться" и дождитесь, пока ZeroVPN установит защищенное соединение. Теперь вы можете наслаждаться свободным и безопасным интернетом!
 
 ![image](https://github.com/Makhronov/ZeroVPN/assets/92443330/e69ad27a-0c70-4da3-95dd-7699fb8b3b85)
 
