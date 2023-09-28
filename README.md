@@ -1,3 +1,5 @@
+###ВРЕМЕННО НЕ РАБОТАЕТ!!!
+
 ZeroVPN is a VPN client based on WireGuard, written in C #. It allows you to connect to various VPN servers around the world and provides high speed, security and privacy of your internet traffic. ZeroVPN is easy to install and configure, and has a simple and convenient interface.
 
 How to use ZeroVPN
