@@ -1,6 +1,7 @@
 ZeroVPN - это VPN-клиент на основе WireGuard, написанный на языке C#. Он позволяет вам подключаться к различным VPN-серверам по всему миру и обеспечивает высокую скорость, безопасность и конфиденциальность вашего интернет-трафика. ZeroVPN легко устанавливается и настраивается, и имеет простой и удобный интерфейс.
 
-[<a href="https://tcno.co"><img src="https://i.imgur.com/7vemBMc.png" alt="Makhronov logo" width="60%"></a>](https://sun9-23.userapi.com/impg/qW7xFaVqMz07bka0nXRFj2sEG0OYbdBtS9ZwvA/KSxqKv6PGao.jpg?size=500x500&quality=95&sign=2639758cff2e29eaecdfcb15c825d69f&type=album)
+![image](https://github.com/Makhronov/ZeroVPN/assets/92443330/7954d972-f2d9-4cbb-a8b9-22266fa11116)
+
 
 ## Как использовать ZeroVPN
 
