@@ -1,5 +1,11 @@
 ###ВРЕМЕННО НЕ РАБОТАЕТ!!!
-
+Да данный момент я не имею возможность оплачивать сервера.
+Так как хороший 10 гигабитный сервер стоит достаточно дорого, а у меня нет возможности на оплату.
+Проект продолжит развитие как у меня появятся свободные средства на оплату сервера.
+При желании вы можете поддержать разработку, я сразу начну подготовку серверов как наберется нужная сумма.
+- Bitcoin: bc1qra7hga02xn3npw8gd4lcmgsa2hhp98uh89ge8t
+- Ethereum: 0x884D6184F327ca40032f98D33449AD9304b49AD9
+  
 ZeroVPN is a VPN client based on WireGuard, written in C #. It allows you to connect to various VPN servers around the world and provides high speed, security and privacy of your internet traffic. ZeroVPN is easy to install and configure, and has a simple and convenient interface.
 
 How to use ZeroVPN
